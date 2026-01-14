@@ -3,4 +3,5 @@
 This repository contains an academic research paper on economic crises and
 their impact on financial markets.
 
-📄 [Download PDF](./economic-crises.pdf)
+📄 [Download PDF (direct)](https://raw.githubusercontent.com/username/economic-crises/main/economic-crises.pdf)
+
